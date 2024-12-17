@@ -8,8 +8,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "description": "",
   "dependencies": {
     "express": "^4.21.2"
   }
+=======
+  "description": ""
+>>>>>>> 6c81e69ae4e1a6414d19cb3f8c8b70b31866357d
 }
